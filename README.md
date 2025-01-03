@@ -6,6 +6,7 @@ Leetcode Questions
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Ayush04H/Leetcode/tree/master/0182-duplicate-emails) |
 | [1258-article-views-i](https://github.com/Ayush04H/Leetcode/tree/master/1258-article-views-i) |
 ## Math
 |  |
