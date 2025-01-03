@@ -25,4 +25,16 @@ Leetcode Questions
 | [0231-power-of-two](https://github.com/Ayush04H/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ayush04H/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush04H/Leetcode/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ayush04H/Leetcode/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ayush04H/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ayush04H/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
