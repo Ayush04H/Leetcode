@@ -13,6 +13,7 @@ Leetcode Questions
 | [0231-power-of-two](https://github.com/Ayush04H/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ayush04H/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush04H/Leetcode/tree/master/0342-power-of-four) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ayush04H/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
