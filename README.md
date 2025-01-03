@@ -15,6 +15,7 @@ Leetcode Questions
 | [0326-power-of-three](https://github.com/Ayush04H/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush04H/Leetcode/tree/master/0342-power-of-four) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ayush04H/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -26,10 +27,12 @@ Leetcode Questions
 | [0231-power-of-two](https://github.com/Ayush04H/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ayush04H/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush04H/Leetcode/tree/master/0342-power-of-four) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush04H/Leetcode/tree/master/0053-maximum-subarray) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,4 +41,12 @@ Leetcode Questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush04H/Leetcode/tree/master/0053-maximum-subarray) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
