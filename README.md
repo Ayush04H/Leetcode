@@ -32,11 +32,13 @@ Leetcode Questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush04H/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ayush04H/Leetcode/tree/master/0169-majority-element) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush04H/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ayush04H/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +55,16 @@ Leetcode Questions
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/Ayush04H/Leetcode/tree/master/3379-score-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ayush04H/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ayush04H/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ayush04H/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
