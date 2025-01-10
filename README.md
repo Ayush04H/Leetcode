@@ -34,6 +34,7 @@ Leetcode Questions
 | [0053-maximum-subarray](https://github.com/Ayush04H/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ayush04H/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayush04H/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush04H/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2486-most-frequent-even-element](https://github.com/Ayush04H/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Divide and Conquer
@@ -41,6 +42,7 @@ Leetcode Questions
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush04H/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ayush04H/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush04H/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,16 +64,31 @@ Leetcode Questions
 | ------- |
 | [0169-majority-element](https://github.com/Ayush04H/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayush04H/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush04H/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2486-most-frequent-even-element](https://github.com/Ayush04H/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayush04H/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayush04H/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush04H/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayush04H/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayush04H/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush04H/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2486-most-frequent-even-element](https://github.com/Ayush04H/Leetcode/tree/master/2486-most-frequent-even-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ayush04H/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ayush04H/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ayush04H/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
