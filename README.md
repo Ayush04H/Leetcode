@@ -13,6 +13,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayush04H/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Ayush04H/Leetcode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Ayush04H/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ayush04H/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush04H/Leetcode/tree/master/0342-power-of-four) |
@@ -63,12 +64,14 @@ Leetcode Questions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ayush04H/Leetcode/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush04H/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Ayush04H/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [3379-score-of-a-string](https://github.com/Ayush04H/Leetcode/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ayush04H/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Ayush04H/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ayush04H/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush04H/Leetcode/tree/master/0347-top-k-frequent-elements) |
