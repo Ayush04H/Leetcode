@@ -11,18 +11,16 @@ class Solution:
             'M':1000,
         }
 
-        res = 0
-        prev = 0 
-        curr = 0 
-
+        res = curr = prev = 0 
         for i in range(len(s)):
             curr = dic[s[i]]
-            if curr > prev:
-                res += curr - 2 * prev
-            
-            else:
-                res += curr
-            prev = curr
+            if curr > prev :
+                res += curr - 2* prev 
+
+            else: res += curr 
+
+            prev = curr 
+
         return res
 
             
