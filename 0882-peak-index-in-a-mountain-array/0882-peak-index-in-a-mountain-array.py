@@ -1,10 +1,16 @@
-from typing import List
-
 class Solution:
     def peakIndexInMountainArray(self, arr: List[int]) -> int:
-        n = len(arr)
-        for i in range(1, n - 1): 
-            if arr[i] > arr[i - 1] and arr[i] > arr[i + 1]:
-                return i  
+        l = 0 
+        hi = len(arr) - 1 
+        res = -1
+        while l < hi:
+            m = (l+hi) // 2
+            if arr[m] < arr[m+1]:
+                l = m + 1
+
+            else:
+                hi = m
+
+        return l
 
         
