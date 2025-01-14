@@ -69,6 +69,7 @@ Leetcode Questions
 | [0451-sort-characters-by-frequency](https://github.com/Ayush04H/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Ayush04H/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Ayush04H/Leetcode/tree/master/0742-to-lower-case) |
+| [2235-capitalize-the-title](https://github.com/Ayush04H/Leetcode/tree/master/2235-capitalize-the-title) |
 | [3379-score-of-a-string](https://github.com/Ayush04H/Leetcode/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
