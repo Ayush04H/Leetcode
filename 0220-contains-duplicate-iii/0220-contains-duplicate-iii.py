@@ -1,11 +1,34 @@
 class Solution:
-    def containsNearbyAlmostDuplicate(self, nums: List[int], k: int, t: int) -> bool:
-        if t<0: return False
-        seen={}        
-        for i,n in enumerate(nums):
-            bkt=n//(t+1)
-            if bkt in seen and i-seen[bkt][0]<=k: return True
-            if bkt-1 in seen and i-seen[bkt-1][0]<=k and abs(n-seen[bkt-1][1])<=t: return True
-            if bkt+1 in seen and i-seen[bkt+1][0]<=k and abs(n-seen[bkt+1][1])<=t: return True
-            seen[bkt]=(i,n)
+    def containsNearbyAlmostDuplicate(self, nums: List[int], indexDiff: int, valueDiff: int) -> bool:
+        if valueDiff < 0: return False
+        
+        # Special case for valueDiff = 0
+        if valueDiff == 0:
+            seen = {}
+            for i, n in enumerate(nums):
+                if n in seen and i - seen[n] <= indexDiff:
+                    return True
+                seen[n] = i
+            return False
+            
+        # Standard case using buckets
+        bucket = {}
+        w = valueDiff
+        
+        for i, n in enumerate(nums):
+            buck = n // w
+            
+            if buck in bucket:
+                return True
+                
+            if buck - 1 in bucket and abs(n - bucket[buck - 1]) <= valueDiff:
+                return True
+            if buck + 1 in bucket and abs(n - bucket[buck + 1]) <= valueDiff:
+                return True
+                
+            bucket[buck] = n
+            
+            if i >= indexDiff:
+                del bucket[nums[i - indexDiff] // w]
+        
         return False
