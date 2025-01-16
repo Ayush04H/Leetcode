@@ -53,6 +53,7 @@ Leetcode Questions
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ayush04H/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush04H/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Ayush04H/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2486-most-frequent-even-element](https://github.com/Ayush04H/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
@@ -88,6 +89,7 @@ Leetcode Questions
 | [0692-top-k-frequent-words](https://github.com/Ayush04H/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Ayush04H/Leetcode/tree/master/0742-to-lower-case) |
 | [2235-capitalize-the-title](https://github.com/Ayush04H/Leetcode/tree/master/2235-capitalize-the-title) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Ayush04H/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Ayush04H/Leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [3379-score-of-a-string](https://github.com/Ayush04H/Leetcode/tree/master/3379-score-of-a-string) |
 ## Hash Table
@@ -171,4 +173,8 @@ Leetcode Questions
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Ayush04H/Leetcode/tree/master/0344-reverse-string) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Ayush04H/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
