@@ -37,6 +37,7 @@ Leetcode Questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayush04H/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Ayush04H/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush04H/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush04H/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -100,6 +101,7 @@ Leetcode Questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayush04H/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ayush04H/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Ayush04H/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ayush04H/Leetcode/tree/master/0217-contains-duplicate) |
