@@ -43,6 +43,7 @@ Leetcode Questions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush04H/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayush04H/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush04H/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush04H/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ayush04H/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ayush04H/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush04H/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -158,6 +159,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush04H/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush04H/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ayush04H/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sliding Window
 |  |
@@ -181,6 +183,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ayush04H/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush04H/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Ayush04H/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ayush04H/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ayush04H/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
