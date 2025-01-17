@@ -83,6 +83,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ayush04H/Leetcode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Ayush04H/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Ayush04H/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayush04H/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Ayush04H/Leetcode/tree/master/0344-reverse-string) |
@@ -173,6 +174,7 @@ Leetcode Questions
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ayush04H/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ayush04H/Leetcode/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
