@@ -7,6 +7,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Ayush04H/Leetcode/tree/master/0182-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/Ayush04H/Leetcode/tree/master/0197-rising-temperature) |
 | [1258-article-views-i](https://github.com/Ayush04H/Leetcode/tree/master/1258-article-views-i) |
 | [1801-average-time-of-process-per-machine](https://github.com/Ayush04H/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 ## Math
