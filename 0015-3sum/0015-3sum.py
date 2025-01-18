@@ -2,16 +2,22 @@ class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         nums.sort()
         n = len(nums)
-        ans = set()
+        ans = []
         for i in range(n-2):
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
             l = i+1
             r = n -1 
             while l<r:
                 s = nums[i] + nums[r] + nums[l]
                 if s == 0:
-                    ans.add((nums[i],nums[r],nums[l]))
-                    l+=1
-                    r-=1
+                    ans.append([nums[i],nums[r],nums[l]])
+                    while l<r and nums[l] == nums[l + 1]:
+                        l+=1
+                    while l<r and nums[r] == nums[r - 1]:
+                        r-=1
+                    l += 1
+                    r -= 1
 
                 elif s<0:
                     l+=1
@@ -19,6 +25,6 @@ class Solution:
                 else:
                     r-=1
 
-        return [list(triplet) for triplet in ans]
+        return ans
 
         
