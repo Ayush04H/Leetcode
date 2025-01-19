@@ -1,4 +1,18 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        rev = int(str(abs(x))[::-1])
-        return (-rev if x < 0 else rev) if rev.bit_length() < 32 else 0
+        mul = -1 if x < 0 else 1
+        x = -x if x < 0 else x
+
+        res = 0
+        while x != 0:
+            modNum = x % 10
+            x = x // 10
+            if res > pow(2, 31) // 10:
+                return 0
+
+            res = (res * 10) + modNum
+
+        return res * mul
+
+
+        
