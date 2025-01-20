@@ -1,7 +1,5 @@
 import pandas as pd
 
 def createDataframe(student_data: List[List[int]]) -> pd.DataFrame:
-    col = ['student_id','age']
-    res = pd.DataFrame(student_data,columns = col)
-    return res
+    return pd.DataFrame(student_data, columns = ["student_id","age"])
     
