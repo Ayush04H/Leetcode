@@ -29,6 +29,7 @@ Leetcode Questions
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Ayush04H/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ayush04H/Leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Ayush04H/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Ayush04H/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -84,6 +85,7 @@ Leetcode Questions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush04H/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayush04H/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ayush04H/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0338-counting-bits](https://github.com/Ayush04H/Leetcode/tree/master/0338-counting-bits) |
 ## Queue
 |  |
 | ------- |
