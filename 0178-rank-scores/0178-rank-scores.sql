@@ -1,4 +1,5 @@
-SELECT 
-    b.Score, 
-	(SELECT COUNT(DISTINCT a.Score) FROM Scores a WHERE b.Score <= a.Score) as `Rank`
-FROM Scores b ORDER BY `Rank`
+# Write your MySQL query statement below
+SELECT score, dense_rank() 
+OVER (ORDER BY score DESC) 
+AS 'rank'
+FROM Scores;
