@@ -18,6 +18,7 @@ Leetcode Questions
 | ------- |
 | [0007-reverse-integer](https://github.com/Ayush04H/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ayush04H/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Ayush04H/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayush04H/Leetcode/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Ayush04H/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayush04H/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -99,6 +100,7 @@ Leetcode Questions
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ayush04H/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayush04H/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Ayush04H/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Ayush04H/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -117,6 +119,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush04H/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Ayush04H/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayush04H/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Ayush04H/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ayush04H/Leetcode/tree/master/0217-contains-duplicate) |
