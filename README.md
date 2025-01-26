@@ -10,6 +10,7 @@ Leetcode Questions
 | [0178-rank-scores](https://github.com/Ayush04H/Leetcode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/Ayush04H/Leetcode/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Ayush04H/Leetcode/tree/master/0197-rising-temperature) |
+| [0620-not-boring-movies](https://github.com/Ayush04H/Leetcode/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/Ayush04H/Leetcode/tree/master/1258-article-views-i) |
 | [1801-average-time-of-process-per-machine](https://github.com/Ayush04H/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Ayush04H/Leetcode/tree/master/1827-invalid-tweets) |
