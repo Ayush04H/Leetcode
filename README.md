@@ -79,6 +79,7 @@ Leetcode Questions
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ayush04H/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ayush04H/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2486-most-frequent-even-element](https://github.com/Ayush04H/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ayush04H/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Ayush04H/Leetcode/tree/master/3429-special-array-i) |
 ## Divide and Conquer
 |  |
