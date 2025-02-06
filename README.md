@@ -74,6 +74,7 @@ Leetcode Questions
 | [0792-binary-search](https://github.com/Ayush04H/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ayush04H/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Ayush04H/Leetcode/tree/master/0948-sort-an-array) |
+| [1364-tuple-with-same-product](https://github.com/Ayush04H/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush04H/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ayush04H/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -143,6 +144,7 @@ Leetcode Questions
 | [0451-sort-characters-by-frequency](https://github.com/Ayush04H/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Ayush04H/Leetcode/tree/master/0454-4sum-ii) |
 | [0692-top-k-frequent-words](https://github.com/Ayush04H/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1364-tuple-with-same-product](https://github.com/Ayush04H/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ayush04H/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/Ayush04H/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Sorting
@@ -168,6 +170,7 @@ Leetcode Questions
 | [0347-top-k-frequent-elements](https://github.com/Ayush04H/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush04H/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Ayush04H/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1364-tuple-with-same-product](https://github.com/Ayush04H/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ayush04H/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/Ayush04H/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Heap (Priority Queue)
