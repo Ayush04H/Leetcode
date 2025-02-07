@@ -83,6 +83,7 @@ Leetcode Questions
 | [2486-most-frequent-even-element](https://github.com/Ayush04H/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ayush04H/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Ayush04H/Leetcode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayush04H/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayush04H/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Leetcode Questions
 | [1364-tuple-with-same-product](https://github.com/Ayush04H/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ayush04H/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/Ayush04H/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayush04H/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
 | ------- |
