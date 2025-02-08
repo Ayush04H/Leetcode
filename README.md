@@ -148,6 +148,7 @@ Leetcode Questions
 | [0692-top-k-frequent-words](https://github.com/Ayush04H/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1364-tuple-with-same-product](https://github.com/Ayush04H/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ayush04H/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/Ayush04H/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2486-most-frequent-even-element](https://github.com/Ayush04H/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayush04H/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
@@ -184,6 +185,7 @@ Leetcode Questions
 | [0451-sort-characters-by-frequency](https://github.com/Ayush04H/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Ayush04H/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Ayush04H/Leetcode/tree/master/0948-sort-an-array) |
+| [2434-design-a-number-container-system](https://github.com/Ayush04H/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -219,6 +221,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Ayush04H/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [2434-design-a-number-container-system](https://github.com/Ayush04H/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Greedy
 |  |
 | ------- |
@@ -255,4 +258,8 @@ Leetcode Questions
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ayush04H/Leetcode/tree/master/0948-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Ayush04H/Leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
