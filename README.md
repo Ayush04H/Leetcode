@@ -114,6 +114,7 @@ Leetcode Questions
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayush04H/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Ayush04H/Leetcode/tree/master/3447-clear-digits) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Leetcode Questions
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ayush04H/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Ayush04H/Leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [3379-score-of-a-string](https://github.com/Ayush04H/Leetcode/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/Ayush04H/Leetcode/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,4 +268,8 @@ Leetcode Questions
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Ayush04H/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Ayush04H/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
