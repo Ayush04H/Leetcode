@@ -113,6 +113,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayush04H/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ayush04H/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Ayush04H/Leetcode/tree/master/3447-clear-digits) |
 ## String
@@ -130,6 +131,7 @@ Leetcode Questions
 | [0692-top-k-frequent-words](https://github.com/Ayush04H/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Ayush04H/Leetcode/tree/master/0742-to-lower-case) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ayush04H/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayush04H/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ayush04H/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/Ayush04H/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ayush04H/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -271,5 +273,6 @@ Leetcode Questions
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayush04H/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Ayush04H/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
