@@ -80,6 +80,7 @@ Leetcode Questions
 | [1364-tuple-with-same-product](https://github.com/Ayush04H/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush04H/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush04H/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ayush04H/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ayush04H/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ayush04H/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -294,5 +295,6 @@ Leetcode Questions
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ayush04H/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ayush04H/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
