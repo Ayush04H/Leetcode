@@ -143,6 +143,7 @@ Leetcode Questions
 | [2235-capitalize-the-title](https://github.com/Ayush04H/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ayush04H/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Ayush04H/Leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Ayush04H/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3379-score-of-a-string](https://github.com/Ayush04H/Leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Ayush04H/Leetcode/tree/master/3447-clear-digits) |
 ## Hash Table
@@ -246,6 +247,7 @@ Leetcode Questions
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush04H/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Ayush04H/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Ayush04H/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -287,6 +289,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayush04H/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Ayush04H/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Ayush04H/Leetcode/tree/master/3447-clear-digits) |
 ## Data Stream
 |  |
@@ -296,5 +299,6 @@ Leetcode Questions
 |  |
 | ------- |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ayush04H/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Ayush04H/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ayush04H/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
