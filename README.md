@@ -83,6 +83,7 @@ Leetcode Questions
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush04H/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush04H/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ayush04H/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayush04H/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ayush04H/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2107-find-unique-binary-string](https://github.com/Ayush04H/Leetcode/tree/master/2107-find-unique-binary-string) |
