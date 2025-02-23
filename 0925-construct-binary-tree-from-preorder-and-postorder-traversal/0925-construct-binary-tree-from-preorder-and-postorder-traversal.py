@@ -5,21 +5,15 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def constructFromPrePost(self, pre: List[int], post: List[int]) -> TreeNode:
-        def helper(pre,post):
-            print('pre is: ', pre, 'post is: ', post)
-            if not pre:
-                return None
-        
-            if len(pre)==1:
-                return TreeNode(post.pop())
-        
-        
-            node=TreeNode(post.pop()) #3
-            ind=pre.index(post[-1]) #4
-        
-            node.right=helper(pre[ind:],post) #1
-            node.left=helper(pre[1:ind],post) #2
+    def constructFromPrePost(self, preorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
+        if not postorder:
+            return None
+        val = postorder.pop()
+        node = TreeNode(val)
+        if not postorder:
             return node
-    
-        return helper(pre,post)
+
+        i = postorder.index(preorder[1])
+        node.left = self.constructFromPrePost(preorder[1:i+2], postorder[:i+1])
+        node.right = self.constructFromPrePost(preorder[i+2:], postorder[i+1:])
+        return node
