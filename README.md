@@ -84,6 +84,7 @@ Leetcode Questions
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush04H/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush04H/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ayush04H/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ayush04H/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayush04H/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ayush04H/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -117,6 +118,7 @@ Leetcode Questions
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayush04H/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ayush04H/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0338-counting-bits](https://github.com/Ayush04H/Leetcode/tree/master/0338-counting-bits) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ayush04H/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
 | ------- |
