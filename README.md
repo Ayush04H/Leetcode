@@ -118,6 +118,7 @@ Leetcode Questions
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayush04H/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ayush04H/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0338-counting-bits](https://github.com/Ayush04H/Leetcode/tree/master/0338-counting-bits) |
+| [1170-shortest-common-supersequence](https://github.com/Ayush04H/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ayush04H/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
@@ -147,6 +148,7 @@ Leetcode Questions
 | [0742-to-lower-case](https://github.com/Ayush04H/Leetcode/tree/master/0742-to-lower-case) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ayush04H/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Ayush04H/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Ayush04H/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ayush04H/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ayush04H/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayush04H/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
