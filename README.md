@@ -8,6 +8,7 @@ Leetcode Questions
 | ------- |
 | [0176-second-highest-salary](https://github.com/Ayush04H/Leetcode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/Ayush04H/Leetcode/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/Ayush04H/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/Ayush04H/Leetcode/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Ayush04H/Leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ayush04H/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
