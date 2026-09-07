@@ -79,6 +79,7 @@ Leetcode Questions
 | [0454-4sum-ii](https://github.com/Ayush04H/Leetcode/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Ayush04H/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0692-top-k-frequent-words](https://github.com/Ayush04H/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/Ayush04H/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Ayush04H/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ayush04H/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayush04H/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -276,6 +277,7 @@ Leetcode Questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Ayush04H/Leetcode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush04H/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush04H/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
