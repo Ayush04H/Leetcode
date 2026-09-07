@@ -29,6 +29,7 @@ Leetcode Questions
 | [0168-excel-sheet-column-title](https://github.com/Ayush04H/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ayush04H/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Ayush04H/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Ayush04H/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Ayush04H/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ayush04H/Leetcode/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ayush04H/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -133,6 +134,7 @@ Leetcode Questions
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ayush04H/Leetcode/tree/master/0258-add-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayush04H/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ayush04H/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -356,4 +358,8 @@ Leetcode Questions
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ayush04H/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ayush04H/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ayush04H/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ayush04H/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
