@@ -157,6 +157,7 @@ Leetcode Questions
 | [1170-shortest-common-supersequence](https://github.com/Ayush04H/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1446-consecutive-characters](https://github.com/Ayush04H/Leetcode/tree/master/1446-consecutive-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ayush04H/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Ayush04H/Leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ayush04H/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayush04H/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Ayush04H/Leetcode/tree/master/2107-find-unique-binary-string) |
