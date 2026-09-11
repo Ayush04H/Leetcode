@@ -89,6 +89,7 @@ Leetcode Questions
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ayush04H/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1364-tuple-with-same-product](https://github.com/Ayush04H/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush04H/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1480-running-sum-of-1d-array](https://github.com/Ayush04H/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush04H/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ayush04H/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ayush04H/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -286,6 +287,7 @@ Leetcode Questions
 | ------- |
 | [0724-find-pivot-index](https://github.com/Ayush04H/Leetcode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush04H/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1480-running-sum-of-1d-array](https://github.com/Ayush04H/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush04H/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ayush04H/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
