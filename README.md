@@ -95,6 +95,7 @@ Leetcode Questions
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ayush04H/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ayush04H/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1991-find-the-middle-index-in-array](https://github.com/Ayush04H/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/Ayush04H/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ayush04H/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ayush04H/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -286,6 +287,7 @@ Leetcode Questions
 | [0724-find-pivot-index](https://github.com/Ayush04H/Leetcode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush04H/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Ayush04H/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Ayush04H/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |
