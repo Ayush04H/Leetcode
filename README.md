@@ -323,6 +323,7 @@ Leetcode Questions
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/Ayush04H/Leetcode/tree/master/0707-design-linked-list) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ayush04H/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush04H/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Ayush04H/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -370,4 +371,8 @@ Leetcode Questions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ayush04H/Leetcode/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Ayush04H/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
