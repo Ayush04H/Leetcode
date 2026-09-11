@@ -80,6 +80,7 @@ Leetcode Questions
 | [0347-top-k-frequent-elements](https://github.com/Ayush04H/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Ayush04H/Leetcode/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Ayush04H/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0622-design-circular-queue](https://github.com/Ayush04H/Leetcode/tree/master/0622-design-circular-queue) |
 | [0692-top-k-frequent-words](https://github.com/Ayush04H/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Ayush04H/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Ayush04H/Leetcode/tree/master/0792-binary-search) |
@@ -135,6 +136,7 @@ Leetcode Questions
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Ayush04H/Leetcode/tree/master/0622-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayush04H/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -323,6 +325,7 @@ Leetcode Questions
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Ayush04H/Leetcode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Ayush04H/Leetcode/tree/master/0707-design-linked-list) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ayush04H/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ayush04H/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -374,5 +377,6 @@ Leetcode Questions
 ## Linked List
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Ayush04H/Leetcode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Ayush04H/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
